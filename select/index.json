@@ -1,32 +1,48 @@
 {
   "version": 1,
-  "base_track": "春を告げる - Haru wo Tsugeru",
+  "base_track": "春を告げる",
   "base_artist": "yama",
-  "createdAt": "2025-12-17T13:37:50.362153Z",
+  "createdAt": "2026-03-20T15:15:48.885682Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "春を告げる",
-      "artist": "ダズビー",
+      "title": "春を告げる - From THE FIRST TAKE",
+      "artist": "yama",
       "has_synced": true,
-      "path": "select/01_春を告げる_ダズビー.lrc"
+      "path": "select/01_春を告げる_-_From_THE_FIRST_TAKE_yama.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
       "title": "春を告げる",
-      "artist": "yama",
+      "artist": "ダズビー",
       "has_synced": true,
-      "path": "select/02_春を告げる_yama.lrc"
+      "path": "select/02_春を告げる_ダズビー.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "春を告げる - From THE FIRST TAKE",
+      "title": "春を告げる",
       "artist": "yama",
       "has_synced": true,
-      "path": "select/03_春を告げる_-_From_THE_FIRST_TAKE_yama.lrc"
+      "path": "select/03_春を告げる_yama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "春を告げる (From THE FIRST TAKE)",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/04_春を告げる_(From_THE_FIRST_TAKE)_yama.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "春を告げる(Versus The Night 0.0)",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/05_春を告げる(Versus_The_Night_0.0)_yama.txt"
     },
     {
       "id": "petitlyrics_1",
@@ -35,6 +51,24 @@
       "artist": "yama",
       "has_synced": false,
       "path": "select/pl_01_春を告げる_yama.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "春を告げる",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/localdb_01_春を告げる_yama.lrc",
+      "repo_name": "9lLYjchibSg"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "春を告げる",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/localdb_02_春を告げる_yama.lrc",
+      "repo_name": "DC6JppqHkaM"
     }
   ]
 }
