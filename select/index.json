@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "春を告げる",
   "base_artist": "yama",
-  "createdAt": "2026-03-20T15:15:48.885682Z",
+  "createdAt": "2026-03-23T13:06:26.863312Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -59,7 +59,7 @@
       "artist": "yama",
       "has_synced": true,
       "path": "select/localdb_01_春を告げる_yama.lrc",
-      "repo_name": "9lLYjchibSg"
+      "repo_name": "DC6JppqHkaM"
     },
     {
       "id": "localdb_2",
@@ -68,7 +68,7 @@
       "artist": "yama",
       "has_synced": true,
       "path": "select/localdb_02_春を告げる_yama.lrc",
-      "repo_name": "DC6JppqHkaM"
+      "repo_name": "9lLYjchibSg"
     }
   ]
 }
